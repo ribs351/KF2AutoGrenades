@@ -1,4 +1,4 @@
-﻿﻿# KF2AutoGrenades
+# KF2AutoGrenades
 
 Game automation tool for XP grinding in Killing Floor 2. It stares at your screen so you don't have to click "throw grenade" like a peasant for four hours straight.
 
